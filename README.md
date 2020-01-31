@@ -13,3 +13,7 @@ https://python.org.br/<br>
 https://wiki.python.org.br/AprendaProgramar<br>
 
 https://www.devmedia.com.br/guia/python/37024<br>
+
+https://www.gitpod.io/blog/gitpodify/<br>
+
+https://www.gitpod.io/docs/python-in-gitpod/<br>
