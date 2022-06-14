@@ -1,7 +1,13 @@
 # Python
 AulasPython - CursoEmVideo
 
-Projetos - ReconhecimentoFacial
+Projetos com ReconhecimentoFacial
+
+Projetos com Tkinter
+
+Projetos com Algorithmia
+
+Projetos com Matplotlib
 
 # LINKS 
 https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/<br>

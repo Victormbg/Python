@@ -1,3 +1,0 @@
-# LINKS
-
-https://pyautogui.readthedocs.io/en/latest/index.html
