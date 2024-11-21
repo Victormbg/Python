@@ -1,33 +1,37 @@
-# Python
-AulasPython - CursoEmVideo
+# Python Projects
 
-Projetos com ReconhecimentoFacial
+## Aulas Python - Curso em Vídeo
+- Aulas sobre conceitos básicos e avançados de Python.
 
-Projetos com Tkinter
+## Projetos com Reconhecimento Facial
+- Projetos práticos envolvendo reconhecimento facial.
 
-Projetos com Algorithmia
+## Projetos com Tkinter
+- Desenvolvimento de interfaces gráficas com Tkinter.
 
-Projetos com Matplotlib
+## Projetos com Algorithmia
+- Implementação de algoritmos e integrações com a plataforma Algorithmia.
 
-# LINKS 
-https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/<br>
+## Projetos com Matplotlib
+- Visualização de dados e gráficos usando Matplotlib.
 
-https://www.infoescola.com/informatica/logica-de-programacao/<br>
+# LINKS ÚTEIS
 
-https://python.org.br/<br>
-
-https://wiki.python.org.br/AprendaProgramar<br>
-
-https://www.devmedia.com.br/guia/python/37024<br>
-
-https://www.gitpod.io/blog/gitpodify/<br>
-
-https://www.gitpod.io/docs/python-in-gitpod/<br>
-
+- [Melhor Forma de Aprender Lógica de Programação](https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/)
+- [Infoescola - Lógica de Programação](https://www.infoescola.com/informatica/logica-de-programacao/)
+- [Python Oficial](https://python.org.br/)
+- [Aprenda Programar na Wiki Python](https://wiki.python.org.br/AprendaProgramar)
+- [DevMedia Guia Python](https://www.devmedia.com.br/guia/python/37024)
+- [Gitpodify Blog](https://www.gitpod.io/blog/gitpodify/)
+- [Gitpod - Python em Gitpod](https://www.gitpod.io/docs/python-in-gitpod/)
 
 # Passo a Passo: Configuração e Uso do Jupyter Notebook no Gitpod
 
-1. Inicie o Jupyter Notebook
-Após o ambiente ser iniciado, no terminal do Gitpod, execute o seguinte comando para iniciar o Jupyter Notebook:
+Para configurar e utilizar o Jupyter Notebook no Gitpod, siga os passos abaixo:
 
-* jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --ServerApp.allow_remote_access=True
+### 1. Iniciar o Jupyter Notebook
+Após o ambiente ser iniciado no Gitpod, abra o terminal e execute o seguinte comando para iniciar o Jupyter Notebook:
+
+```
+jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --ServerApp.allow_remote_access=True
+```
